@@ -14,5 +14,5 @@
   - Finish 4 layer design, 4-layer should require no jumper wire
 
 A simple integrated design of what used to be a hand etched board with the power and RX modules attached by wires and glue.
-This is intended to be a baord to integrate the modules together and provide the PWM and Power Switching features in a rugged
+This is intended to be a board to integrate the modules together and provide the PWM and Power Switching features in a rugged
 and low EMI manner suitable for encapsulation on a rover.
