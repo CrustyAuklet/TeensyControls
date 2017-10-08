@@ -1,0 +1,16 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~TeensyControls.PrjPcb|ReportField=ProjectFullPath~D:\Ethan\Desktop\Working\2_Projects\TeensyControls\TeensyControls.PrjPcb|ReportField=Title~BOM_PartType For Project [TeensyControls.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~28|ReportField=ReportTime~11:40:00|ReportField=ReportDate~08-Oct-17|ReportField=ReportDateTime~08-Oct-17 11:40:00|ReportField=OutputName~BOM_PartType|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~115 McAllister Way|ReportField=Address2~Santa Cruz, CA 95060|ReportField=Address3~Author: Ethan Slattery|ReportField=Address4~|ReportField=Author~Ethan Slattery|ReportField=Organization~Costa Lab, UCSC|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~|ReportField=ProjectName~|ReportField=Revision~1|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~6|ReportField=Time~|ReportField=Title~Micro-Computer Controls|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~TeensyControls.PrjPcb|ReportField=DataSourceFullPath~D:\Ethan\Desktop\Working\2_Projects\TeensyControls\TeensyControls.PrjPcb
+MF-DIO-SMA-B140||D1, D2|Diode SMA|Schottky Diode|2
+Power Switch||J1|Pinhead_1x2|2 Pin|1
+Battery||J2|Pinhead_1x2|2 Pin|1
+732-5315-ND||J3, J4, J5|Pinhead_1x2|2 Pin|3
+Header||J6, J7, J9, J10, J11, J12|Pinhead_1x3|3 Pin|6
+Temperature Sensor||J13|Pinhead_1x3|3 Pin|1
+MOSFET N-Ch||Q1, Q2, Q3|TO-220|MOSFET N-Ch|3
+SQ3425EV-T1_GE3CT-ND||Q4|TSOP-6_L|MOSFET P-CH SOT26 / SOP-6|1
+MF-RES-0805-10K||R1, R2, R3, R4|R0805N|RESISTOR|4
+P6.2KACT-ND||R5|R0805L|RESISTOR|1
+P2.2KACT-ND||R6|R0805L|RESISTOR|1
+CT3115CT-ND||SW1|CTS-219-3|SPST 3-position|1
+FrSky XM+|FrSky 2.4GHz 16CH SBUS receiver|U1|FrSky XM+ (Vert Mount)|FrSky XM+ Radio|1
+D24V50F5|DC Step Down Regulators from Pololu|U2|D24V50Fx|D24V25Fx|1
+Teensy 3.2|Teensy 3.2 /w 4 inner pins|U3|TEENSY_3.0-3.2&LC_SMD+4|TEENSY 3.2 + 4|1
