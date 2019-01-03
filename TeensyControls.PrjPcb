@@ -29,7 +29,7 @@ PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 ForceUpdateCount=0
-OutputPath=Outputs
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -150,319 +150,163 @@ DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\comp_+_top\c
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Outputs\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Default Configuration\Outputs\NC Drill\CtlBoard_2Layer.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument5]
-DocumentPath=Outputs\CtlBoard_2Layer.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=Default Configuration\Outputs\Gerber\CtlBoard_2Layer.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument7]
-DocumentPath=Outputs\CtlBoard_2Layer.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
+[GeneratedDocument5]
 DocumentPath=Default Configuration\Outputs\Gerber\CtlBoard_2Layer.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument9]
-DocumentPath=Outputs\CtlBoard_2Layer.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument10]
+[GeneratedDocument6]
 DocumentPath=Default Configuration\Outputs\Gerber\CtlBoard_2Layer.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument11]
-DocumentPath=Outputs\CtlBoard_2Layer.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
+[GeneratedDocument7]
 DocumentPath=Default Configuration\Outputs\Gerber\CtlBoard_2Layer.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument13]
-DocumentPath=Outputs\CtlBoard_2Layer.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
+[GeneratedDocument8]
 DocumentPath=Default Configuration\Outputs\Gerber\CtlBoard_2Layer.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument15]
-DocumentPath=Outputs\CtlBoard_2Layer.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument16]
+[GeneratedDocument9]
 DocumentPath=Default Configuration\Outputs\Gerber\CtlBoard_2Layer.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument17]
-DocumentPath=Outputs\CtlBoard_2Layer.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument18]
+[GeneratedDocument10]
 DocumentPath=Default Configuration\Outputs\Gerber\CtlBoard_2Layer.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument19]
-DocumentPath=Outputs\CtlBoard_2Layer.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument20]
+[GeneratedDocument11]
 DocumentPath=Default Configuration\Outputs\Gerber\CtlBoard_2Layer.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument21]
-DocumentPath=Outputs\CtlBoard_2Layer.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
+[GeneratedDocument12]
 DocumentPath=Default Configuration\Outputs\Gerber\CtlBoard_2Layer.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument23]
-DocumentPath=Outputs\CtlBoard_2Layer.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument24]
+[GeneratedDocument13]
 DocumentPath=Default Configuration\Outputs\NC Drill\CtlBoard_2Layer.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument25]
-DocumentPath=Outputs\CtlBoard_2Layer.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument26]
+[GeneratedDocument14]
 DocumentPath=Default Configuration\Outputs\Gerber\CtlBoard_2Layer.Outline
 DItemRevisionGUID=
 
-[GeneratedDocument27]
-DocumentPath=Outputs\CtlBoard_2Layer.Outline
-DItemRevisionGUID=
-
-[GeneratedDocument28]
+[GeneratedDocument15]
 DocumentPath=Default Configuration\Outputs\Gerber\CtlBoard_2Layer.REP
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument16]
 DocumentPath=Default Configuration\Outputs\ODB\CtlBoard_2Layer.REP
 DItemRevisionGUID=
 
-[GeneratedDocument30]
-DocumentPath=Outputs\CtlBoard_2Layer.REP
-DItemRevisionGUID=
-
-[GeneratedDocument31]
+[GeneratedDocument17]
 DocumentPath=Default Configuration\Outputs\Gerber\CtlBoard_2Layer.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument32]
-DocumentPath=Outputs\CtlBoard_2Layer.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument33]
+[GeneratedDocument18]
 DocumentPath=Default Configuration\Outputs\ExportSTEP\CtlBoard_2Layer.step
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument19]
 DocumentPath=Default Configuration\Outputs\NC Drill\CtlBoard_2Layer.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument35]
-DocumentPath=Outputs\CtlBoard_2Layer.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument36]
+[GeneratedDocument20]
 DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
-[GeneratedDocument37]
-DocumentPath=Outputs\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument38]
+[GeneratedDocument21]
 DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\3D Top\features
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument22]
 DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Assembly Top\features
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument23]
 DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\bottom\features
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument24]
 DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\bottomoverlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument42]
+[GeneratedDocument25]
 DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\bottompaste\features
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument26]
 DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\bottomsolder\features
 DItemRevisionGUID=
 
-[GeneratedDocument44]
+[GeneratedDocument27]
 DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
-[GeneratedDocument45]
+[GeneratedDocument28]
 DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Courtyard Top\features
 DItemRevisionGUID=
 
-[GeneratedDocument46]
+[GeneratedDocument29]
 DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
-[GeneratedDocument47]
+[GeneratedDocument30]
 DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\keepout\features
 DItemRevisionGUID=
 
-[GeneratedDocument48]
+[GeneratedDocument31]
 DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\mechanical22\features
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument32]
 DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Outline\features
 DItemRevisionGUID=
 
-[GeneratedDocument50]
+[GeneratedDocument33]
 DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\top\features
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument34]
 DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\topoverlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument52]
+[GeneratedDocument35]
 DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\toppaste\features
 DItemRevisionGUID=
 
-[GeneratedDocument53]
+[GeneratedDocument36]
 DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\topsolder\features
 DItemRevisionGUID=
 
-[GeneratedDocument54]
-DocumentPath=Outputs\odb\steps\pcb\layers\3D Top\features
-DItemRevisionGUID=
-
-[GeneratedDocument55]
-DocumentPath=Outputs\odb\steps\pcb\layers\Assembly Top\features
-DItemRevisionGUID=
-
-[GeneratedDocument56]
-DocumentPath=Outputs\odb\steps\pcb\layers\bottom\features
-DItemRevisionGUID=
-
-[GeneratedDocument57]
-DocumentPath=Outputs\odb\steps\pcb\layers\bottomoverlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument58]
-DocumentPath=Outputs\odb\steps\pcb\layers\bottompaste\features
-DItemRevisionGUID=
-
-[GeneratedDocument59]
-DocumentPath=Outputs\odb\steps\pcb\layers\bottomsolder\features
-DItemRevisionGUID=
-
-[GeneratedDocument60]
-DocumentPath=Outputs\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument61]
-DocumentPath=Outputs\odb\steps\pcb\layers\Courtyard Top\features
-DItemRevisionGUID=
-
-[GeneratedDocument62]
-DocumentPath=Outputs\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument63]
-DocumentPath=Outputs\odb\steps\pcb\layers\keepout\features
-DItemRevisionGUID=
-
-[GeneratedDocument64]
-DocumentPath=Outputs\odb\steps\pcb\layers\mechanical22\features
-DItemRevisionGUID=
-
-[GeneratedDocument65]
-DocumentPath=Outputs\odb\steps\pcb\layers\Outline\features
-DItemRevisionGUID=
-
-[GeneratedDocument66]
-DocumentPath=Outputs\odb\steps\pcb\layers\top\features
-DItemRevisionGUID=
-
-[GeneratedDocument67]
-DocumentPath=Outputs\odb\steps\pcb\layers\topoverlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument68]
-DocumentPath=Outputs\odb\steps\pcb\layers\toppaste\features
-DItemRevisionGUID=
-
-[GeneratedDocument69]
-DocumentPath=Outputs\odb\steps\pcb\layers\topsolder\features
-DItemRevisionGUID=
-
-[GeneratedDocument70]
+[GeneratedDocument37]
 DocumentPath=Default Configuration\Outputs\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
-[GeneratedDocument71]
-DocumentPath=Outputs\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument72]
+[GeneratedDocument38]
 DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
-[GeneratedDocument73]
-DocumentPath=Outputs\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument74]
+[GeneratedDocument39]
 DocumentPath=Default Configuration\Outputs\Pick Place\Pick Place for CtlBoard_2Layer.txt
 DItemRevisionGUID=
 
-[GeneratedDocument75]
+[GeneratedDocument40]
 DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\profile
 DItemRevisionGUID=
 
-[GeneratedDocument76]
-DocumentPath=Outputs\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument77]
+[GeneratedDocument41]
 DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
-[GeneratedDocument78]
-DocumentPath=Outputs\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument79]
-DocumentPath=Outputs\Teensy32.EDF
-DItemRevisionGUID=
-
-[GeneratedDocument80]
+[GeneratedDocument42]
 DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
-
-[GeneratedDocument81]
-DocumentPath=Outputs\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Parameter1]
@@ -502,7 +346,7 @@ DocumentReferenceClass1=DocumentReference
 OutputJobFileName1=TeensyControls.OutJob
 
 [Generic_EDE]
-OutputDir=Outputs
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
